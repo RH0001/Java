@@ -1,21 +1,45 @@
-# 예상 진행
+# Readme.md
 
-| **Week** | **Learning scope**                                           | **Complete**  **Date** | **Completed <br />Commit Message** |
-| :------: | ------------------------------------------------------------ | :--------------------: | :--------------------------------: |
-|    01    | - 자바 시작하기  (생략가능)                                  |       2021.10.17       |           Done:  week 01           |
-|    02    | - 자료형   <br />- 연산자                                    |       2021.10.24       |           Done:  week 02           |
-|    03    | - 제어문과 제어  키워드                                      |                        |           Done:  week 03           |
-|    04    | - 참조 자료형                                                |                        |           Done:  week 04           |
-|    05    | - 클래스와 객체<br />- 클래스 내부 구성요소                  |                        |           Done:  week 05           |
-|    06    | - 클래스 외부  구성요소  <br />- 자바 제어자 (접근 지정자, static) |                        |           Done:  week 06           |
-|    07    | - 클래스의 상속과  다형성                                    |                        |           Done:  week 07           |
-|    08    | - 자바 제어자(final, abstract)   <br />- 추상 클래스와 인터페이스   <br />- 이너 클래스와 이너 인터페이스 |                        |           Done:  week 08           |
-|    09    | - 예외 처리                                                  |                        |           Done:  week 09           |
-|    10    | - 쓰레드                                                     |                        |           Done:  week 10           |
-|    11    | - 쓰레드                                                     |                        |           Done:  week 11           |
-|    12    | - 제네릭                                                     |                        |           Done:  week 12           |
-|    13    | - 컬렉션 프레임워크                                          |                        |           Done:  week 13           |
-|    14    | - 컬렉션 프레임워크                                          |                        |           Done:  week 14           |
-|    15    | - 람다식  <br />- 자바 입출력                                |                        |           Done:  week 15           |
-|    16    | - 자바 입출력                                                |                        |           Done:  week 16           |
+1. 자료형
+
+   > https://github.com/RH0001/Java/blob/master/docs/%EC%9E%90%EB%A3%8C%ED%98%95.md
+
+2. 연산자
+
+   > https://github.com/RH0001/Java/blob/master/docs/%EC%97%B0%EC%82%B0%EC%9E%90.md
+
+3. 제어문과 제어  키워드 
+
+   > https://github.com/RH0001/Java/blob/master/docs/%EC%A0%9C%EC%96%B4%EB%AC%B8_%EC%A0%9C%EC%96%B4%ED%82%A4%EC%9B%8C%EB%93%9C.md
+
+4. 참조 자료형
+   
+
+5. 클래스와 객체
+
+6. 클래스 내부 구성요소 클
+
+7. 래스 외부  구성요소 
+
+8. 자바 제어자 (접근 지정자, static)
+
+9. 클래스의 상속과  다형성
+
+10. 자바 제어자(final, abstract)
+
+11. 추상 클래스와 인터페이스
+
+12. 이너 클래스와 이너 인터페이스
+
+13. 예외 처리
+
+14. 쓰레드
+
+15. 제네릭
+
+16. 컬렉션 프레임워크
+
+17. 람다식
+
+18. 자바 입출력 
 
