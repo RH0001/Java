@@ -13,7 +13,7 @@
    > https://github.com/RH0001/Java/blob/master/docs/%EC%A0%9C%EC%96%B4%EB%AC%B8_%EC%A0%9C%EC%96%B4%ED%82%A4%EC%9B%8C%EB%93%9C.md
 
 4. 참조 자료형
-   > https://github.com/RH0001/Java/blob/master/docs/ReferanceType.md
+   > https://apple-territory-ed1.notion.site/f49e762dd63d444489344f13e013f0fc
 
 5. 클래스와 객체
 
