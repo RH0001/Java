@@ -33,6 +33,7 @@ public class ExternalCallMethods {
         A a = new A();
 
         // 메서드 호출 (맴버 활용)
+
         a.print();
         int k = a.data();
         System.out.println(k);
