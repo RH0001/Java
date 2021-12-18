@@ -1,9 +1,9 @@
-package sec_accessModifier.Ex01;
+package sec01_accessModifier.Ex01;
 
-import sec_accessModifier.Ex01.pack01.A;
-import sec_accessModifier.Ex01.pack01.B;
-import sec_accessModifier.Ex01.pack02.C;
-import sec_accessModifier.Ex01.pack02.D;
+import sec01_accessModifier.Ex01.pack01.A;
+import sec01_accessModifier.Ex01.pack01.B;
+import sec01_accessModifier.Ex01.pack02.C;
+import sec01_accessModifier.Ex01.pack02.D;
 
 public class AccessModifierOfMember {
 

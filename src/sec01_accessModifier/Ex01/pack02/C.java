@@ -1,6 +1,6 @@
-package sec_accessModifier.Ex01.pack02;
+package sec01_accessModifier.Ex01.pack02;
 
-import sec_accessModifier.Ex01.pack01.A;
+import sec01_accessModifier.Ex01.pack01.A;
 
 public class C {
     A a = new A();

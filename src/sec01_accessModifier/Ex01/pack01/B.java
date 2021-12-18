@@ -1,4 +1,4 @@
-package sec_accessModifier.Ex01.pack01;
+package sec01_accessModifier.Ex01.pack01;
 
 public class B {
     A a = new A();
