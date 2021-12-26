@@ -40,5 +40,6 @@ public class MethodOfString2 {
         System.out.println(str2.equals(str3));
         System.out.println(str3.equals(str4));
         System.out.println(str3.equalsIgnoreCase(str4));
+
     }
 }
