@@ -1,4 +1,4 @@
-package sec_accessModifier.Ex02;
+package sec01_accessModifier.Ex02;
 
 //public class
 public class C {

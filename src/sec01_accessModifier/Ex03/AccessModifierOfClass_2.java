@@ -1,7 +1,7 @@
-package sec_accessModifier.Ex03;
+package sec01_accessModifier.Ex03;
 
-import sec_accessModifier.Ex03.pack.A;
-import sec_accessModifier.Ex03.pack.C;
+import sec01_accessModifier.Ex03.pack.A;
+import sec01_accessModifier.Ex03.pack.C;
 
 public class AccessModifierOfClass_2 {
     public static void main(String[] args) {

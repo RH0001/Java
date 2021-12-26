@@ -1,4 +1,4 @@
-package sec_accessModifier.Ex03.pack;
+package sec01_accessModifier.Ex03.pack;
 
 // default class
 class B {
