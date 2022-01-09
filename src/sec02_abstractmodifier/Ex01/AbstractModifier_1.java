@@ -1,17 +1,17 @@
-package sec02_abstractmodifier.Ex02;
+package sec02_abstractmodifier.Ex01;
 
 // 일반 클래스 상속
 class Animal {
     void cry() {}
 }
 
-class Cat extends Animal {
+class Cat extends sec02_abstractmodifier.Ex02.Animal {
     void cry() {
         System.out.println("야옹");
     }
 }
 
-class Dog extends Animal {
+class Dog extends sec02_abstractmodifier.Ex02.Animal {
     void cry() {
         System.out.println("멍멍");
     }
@@ -20,8 +20,8 @@ public class AbstractModifier_1 {
     public static void main(String[] args) {
 
         // #1. 객체 생성
-        Animal animal = new Cat();
-        Animal animal1 = new Dog();
+        sec02_abstractmodifier.Ex02.Animal animal = new Cat();
+        sec02_abstractmodifier.Ex02.Animal animal1 = new Dog();
 
         // #2. 메서드 호출
         animal.cry(); // 야옹

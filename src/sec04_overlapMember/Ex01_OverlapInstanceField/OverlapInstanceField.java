@@ -1,2 +1,24 @@
-package sec04_overlapMember.Ex01_OverlapInstanceField;public class OverlapInstanceField {
+package sec04_overlapMember.Ex01_OverlapInstanceField;
+
+class A {
+    int m = 3;
+}
+
+class B extends A {
+    int m = 4;
+}
+
+public class OverlapInstanceField {
+    public static void main(String[] args) {
+        // 객체 생성
+        A aa = new A();
+        B bb = new B();
+        A ab = new B();
+
+        // 인스턴스 필드
+        System.out.println(aa.m);
+        System.out.println(bb.m);
+        System.out.println(ab.m); // A타입으로 선언되어있기 때문에
+
+    }
 }
